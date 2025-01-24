@@ -1,1 +1,1 @@
-This repository contains implementtaion of operations of IB-SG
+This repository contains implementation of operations of IB-SG
